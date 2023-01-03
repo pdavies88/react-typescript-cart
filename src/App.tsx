@@ -12,7 +12,6 @@ const App = () => {
     <ShoppingCartProvider>
       <Navigation />
       <Container className="mb-4">
-        React Typescript Jest Starter
         <Routes>
           <Route path="/" element={<Home />} />
           <Route path="/store" element={<Store />} />
