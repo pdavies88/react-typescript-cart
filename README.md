@@ -1,5 +1,7 @@
 # React Typescript Shopping Cart
 
+Styling completed via Bootstrap and cart storage set via localStorage.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
